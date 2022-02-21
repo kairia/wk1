@@ -12,7 +12,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   Text:{
-    color:'blue',
+    color:'red',
     fontSize:25,
   },
   container: {
